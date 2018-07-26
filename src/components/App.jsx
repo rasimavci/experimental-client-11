@@ -21,6 +21,9 @@ import {
 } from 'framework7-react';
 
 import routes from '../routes';
+import Footer from './Footer'
+import AddTodo from '../containers/AddTodo'
+import VisibleTodoList from '../containers/VisibleTodoList'
 
 export default function (props) {
   let theme = 'auto';
@@ -31,6 +34,12 @@ export default function (props) {
 
   return (
     <App params={{ theme, routes }}>
+  <div>
+    <AddTodo />
+    <VisibleTodoList />
+    <Footer />
+  </div>
+      
       <Statusbar />
       <Panel left cover>
         <View url="/panel-left/" linksView=".view-main" />
