@@ -1,4 +1,4 @@
-# Experimental Client 11 with Framework7 v3 Ract
+# WebRTC Client with React
 WebRtc client based on React app starter template. 
 
 <p>
@@ -6,11 +6,11 @@ WebRtc client based on React app starter template.
 </p>
 
 ## Introduction
-In this applicaton I have built a mobile webRTC client using Framework 7 v3 with Ract.
+In this applicaton I have built a mobile webRTC client with with React using using Framework 7 as css library
 
 
 ## Issues
-Targeted for mobile. Since phonegap structure needs www folder, directly builds into www folder when buidl.
+Targeted for mobile. Since phonegap structure needs www folder, directly builds into www folder when build
 
 ## Development
 This project can be developed using necessary libraries
