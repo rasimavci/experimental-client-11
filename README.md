@@ -1,10 +1,6 @@
 # WebRTC Client with React
 WebRtc client based on React app starter template. 
 
-<p>
-<img src="src/assets/kandylogo.png"/>
-</p>
-
 ## Introduction
 In this applicaton I have built a mobile webRTC client with with React using using Framework 7 as css library
 
